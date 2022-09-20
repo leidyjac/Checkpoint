@@ -1,2 +1,3 @@
 # Checkpoint
-Simulacro examen
+Simulacro exame
+Leidy Alzate
